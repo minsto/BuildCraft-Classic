@@ -34,8 +34,14 @@ dist/
 
 # java
 
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
 hs_err_*.log
+hs_err_pid*
 replay_*.log
+replay_pid*
 *.hprof
 *.jfr
 
