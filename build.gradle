@@ -1,0 +1,18 @@
+plugins {
+    id 'fabric-loom' version '1.8-SNAPSHOT' apply false
+    id 'net.neoforged.moddev' version '2.0.49-beta' apply false
+}
+
+tasks.register('releaseJars', Copy) {
+    group = 'build'
+    description = 'Copy player jars, the API jar and sources into dist/'
+    dependsOn ':fabric:remapJar', ':forge:jar', ':neoforge:jar', ':api:jar', ':api:sourcesJar', ':common:sourcesJar'
+    from(project(':fabric').tasks.named('remapJar'))
+    from(project(':forge').tasks.named('jar'))
+    from(project(':neoforge').tasks.named('jar'))
+    from(project(':api').tasks.named('jar'))
+    from(project(':api').tasks.named('sourcesJar'))
+    from(project(':common').tasks.named('sourcesJar'))
+    into layout.buildDirectory.dir('dist')
+    duplicatesStrategy = DuplicatesStrategy.INCLUDE
+}

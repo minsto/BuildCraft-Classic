@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "buildcraftenergy:blocks/engine/stone/side",
+    "down": "buildcraftenergy:blocks/engine/stone/back",
+    "up": "buildcraftenergy:blocks/engine/stone/side",
+    "north": "buildcraftenergy:blocks/engine/stone/side",
+    "south": "buildcraftenergy:blocks/engine/stone/side",
+    "west": "buildcraftenergy:blocks/engine/stone/side",
+    "east": "buildcraftenergy:blocks/engine/stone/side"
+  }
+}

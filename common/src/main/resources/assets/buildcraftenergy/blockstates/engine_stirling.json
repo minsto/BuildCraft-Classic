@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "buildcraftenergy:block/engine_stirling"
+    },
+    "facing=south": {
+      "model": "buildcraftenergy:block/engine_stirling"
+    },
+    "facing=west": {
+      "model": "buildcraftenergy:block/engine_stirling"
+    },
+    "facing=east": {
+      "model": "buildcraftenergy:block/engine_stirling"
+    },
+    "facing=up": {
+      "model": "buildcraftenergy:block/engine_stirling"
+    },
+    "facing=down": {
+      "model": "buildcraftenergy:block/engine_stirling"
+    }
+  }
+}

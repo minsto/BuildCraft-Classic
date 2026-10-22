@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "${mod_id}",
+  "version": "${version}",
+  "name": "${mod_name}",
+  "description": "${description}",
+  "authors": ["${mod_author}"],
+  "contact": {
+    "homepage": "https://github.com/minsto/BuildCraft-Classic",
+    "sources": "https://github.com/minsto/BuildCraft-Classic"
+  },
+  "license": "MPL-2.0",
+  "icon": "assets/buildcraft/logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.bcc.fabric.BuildCraftFabric"],
+    "client": ["com.bcc.fabric.BuildCraftFabricClient"],
+    "fabric-gametest": ["com.bcc.fabric.BCGameTests"]
+  },
+  "mixins": ["${mod_id}.mixins.json"],
+  "accessWidener": "buildcraftclassic.accesswidener",
+  "depends": {
+    "fabricloader": ">=${fabric_loader_version}",
+    "minecraft": "~1.21.1",
+    "java": ">=${java_version}",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,198 @@
+[
+    {
+        "modid": "buildcraftlib",
+        "name": "BuildCraft Lib",
+        "version": "8.0.0",
+        "mcversion": "1.12.2",
+        "description": "Library mod used by buildcraft.",
+        "credits": "Created by SpaceToad",
+        "logoFile": "assets/buildcraft/logo.png",
+        "url": "http://www.mod-buildcraft.com/",
+        "updateUrl": "",
+        "authorList": [
+            "SpaceToad",
+            "BuildCraft Team"
+        ],
+        "parent": "buildcraftcore",
+        "screenshots": [
+            
+        ],
+        "dependencies": [
+            "mod_MinecraftForge"
+        ]
+    },
+    {
+        "modid": "buildcraftcore",
+        "name": "BuildCraft",
+        "version": "8.0.0",
+        "mcversion": "1.12.2",
+        "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!",
+        "credits": "Created by SpaceToad",
+        "logoFile": "assets/buildcraft/logo.png",
+        "url": "http://www.mod-buildcraft.com/",
+        "updateUrl": "",
+        "authorList": [
+            "SpaceToad",
+            "BuildCraft Team"
+        ],
+        "parent": "",
+        "screenshots": [
+            
+        ],
+        "dependencies": [
+            "mod_MinecraftForge"
+        ]
+    },
+    {
+        "modid": "buildcraftbuilders",
+        "name": "BuildCraft Builders",
+        "version": "8.0.0",
+        "mcversion": "1.12.2",
+        "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Builders Component)",
+        "credits": "Created by SpaceToad",
+        "logoFile": "assets/buildcraft/logo.png",
+        "url": "http://www.mod-buildcraft.com/",
+        "updateUrl": "",
+        "authorList": [
+            "SpaceToad",
+            "BuildCraft Team"
+        ],
+        "parent": "buildcraftcore",
+        "screenshots": [
+            
+        ],
+        "dependencies": [
+            "mod_MinecraftForge"
+        ]
+    },
+    {
+        "modid": "buildcraftenergy",
+        "name": "BuildCraft Energy",
+        "version": "8.0.0",
+        "mcversion": "1.12.2",
+        "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Energy Component)",
+        "credits": "Created by SpaceToad",
+        "logoFile": "assets/buildcraft/logo.png",
+        "url": "http://www.mod-buildcraft.com/",
+        "updateUrl": "",
+        "authorList": [
+            "SpaceToad",
+            "BuildCraft Team"
+        ],
+        "parent": "buildcraftcore",
+        "screenshots": [
+            
+        ],
+        "dependencies": [
+            "mod_MinecraftForge"
+        ]
+    },
+    {
+        "modid": "buildcraftfactory",
+        "name": "BuildCraft Factory",
+        "version": "8.0.0",
+        "mcversion": "1.12.2",
+        "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Factory Component)",
+        "credits": "Created by SpaceToad",
+        "logoFile": "assets/buildcraft/logo.png",
+        "url": "http://www.mod-buildcraft.com/",
+        "updateUrl": "",
+        "authorList": [
+            "SpaceToad",
+            "BuildCraft Team"
+        ],
+        "parent": "buildcraftcore",
+        "screenshots": [
+            
+        ],
+        "dependencies": [
+            "mod_MinecraftForge"
+        ]
+    },
+    {
+        "modid": "buildcraftsilicon",
+        "name": "BuildCraft Silicon",
+        "version": "8.0.0",
+        "mcversion": "1.12.2",
+        "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Silicon Component)",
+        "credits": "Created by SpaceToad",
+        "logoFile": "assets/buildcraft/logo.png",
+        "url": "http://www.mod-buildcraft.com/",
+        "updateUrl": "",
+        "authorList": [
+            "SpaceToad",
+            "BuildCraft Team"
+        ],
+        "parent": "buildcraftcore",
+        "screenshots": [
+            
+        ],
+        "dependencies": [
+            "mod_MinecraftForge"
+        ]
+    },
+    {
+        "modid": "buildcrafttransport",
+        "name": "BuildCraft Transport",
+        "version": "8.0.0",
+        "mcversion": "1.12.2",
+        "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Transport Component)",
+        "credits": "Created by SpaceToad",
+        "logoFile": "assets/buildcraft/logo.png",
+        "url": "http://www.mod-buildcraft.com/",
+        "updateUrl": "",
+        "authorList": [
+            "SpaceToad",
+            "BuildCraft Team"
+        ],
+        "parent": "buildcraftcore",
+        "screenshots": [
+            
+        ],
+        "dependencies": [
+            "mod_MinecraftForge"
+        ]
+    },
+    {
+        "modid": "buildcraftrobotics",
+        "name": "BuildCraft Robotics",
+        "version": "8.0.0",
+        "mcversion": "1.12.2",
+        "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Robotics Component)",
+        "credits": "Created by SpaceToad",
+        "logoFile": "assets/buildcraft/logo.png",
+        "url": "http://www.mod-buildcraft.com/",
+        "updateUrl": "",
+        "authorList": [
+            "SpaceToad",
+            "BuildCraft Team"
+        ],
+        "parent": "buildcraftcore",
+        "screenshots": [
+            
+        ],
+        "dependencies": [
+            "mod_MinecraftForge"
+        ]
+    },
+    {
+        "modid": "buildcraftcompat",
+        "name": "BuildCraft Compat",
+        "version": "8.0.0",
+        "mcversion": "$mcversion",
+        "description": "Compatibility add-on for BuildCraft",
+        "credits": "Created by asie",
+        "url": "http://www.mod-buildcraft.com/",
+        "updateUrl": "",
+        "authorList": [
+            "BuildCraft Team"
+        ],
+        "parent": "buildcraftcore",
+        "screenshots": [
+            
+        ],
+        "dependencies": [
+            "mod_MinecraftForge"
+        ]
+    }
+]

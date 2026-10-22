@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GDG",
+    "IPI",
+    "GDG"
+  ],
+  "key": {
+    "G": {
+      "item": "buildcraftcore:gear_gold"
+    },
+    "D": {
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "I": {
+      "item": "buildcraftcore:gear_iron"
+    },
+    "P": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "id": "buildcraftbuilders:quarry",
+    "count": 1
+  }
+}

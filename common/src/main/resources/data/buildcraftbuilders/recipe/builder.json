@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "D",
+    "F"
+  ],
+  "key": {
+    "D": {
+      "item": "buildcraftcore:gear_diamond"
+    },
+    "F": {
+      "item": "buildcraftbuilders:filler"
+    }
+  },
+  "result": {
+    "id": "buildcraftbuilders:builder",
+    "count": 1
+  }
+}

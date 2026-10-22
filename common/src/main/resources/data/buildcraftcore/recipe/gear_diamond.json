@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "IGI",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:diamond"
+    },
+    "G": {
+      "item": "buildcraftcore:gear_gold"
+    }
+  },
+  "result": {
+    "id": "buildcraftcore:gear_diamond",
+    "count": 1
+  }
+}

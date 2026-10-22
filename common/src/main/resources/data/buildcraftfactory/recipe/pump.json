@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ITI",
+    "IMI",
+    "I I"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "T": {
+      "item": "buildcraftfactory:tank"
+    },
+    "M": {
+      "item": "buildcraftfactory:mining_well"
+    }
+  },
+  "result": {
+    "id": "buildcraftfactory:pump",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+BuildCraft Classic
+Copyright (c) 2026 BuildCraft Classic contributors
+
+This is an unofficial port of BuildCraft to Minecraft 1.21.1.
+It is not affiliated with, endorsed by, or maintained by SpaceToad or the BuildCraft team.
+
+Original work
+Copyright (c) 2016-2018 SpaceToad and the BuildCraft team
+https://github.com/BuildCraft/BuildCraft
+
+The new code and the code derived from BuildCraft are under the Mozilla Public License 2.0.
+See the LICENSE file.
+
+Textures, models, languages and other resources copied from BuildCraft stay under the
+Minecraft Mod Public License 1.0.1. The license text is in buildcraft_resources/LICENSE.BUILDCRAFT.
+The MMPL is not an SPDX license identifier. The license file is included so that a host can read it.
+CurseForge may still ask for a manual license declaration.
+
+BuildCraft is a name used by the original project. "BuildCraft Classic" is the name of this port.

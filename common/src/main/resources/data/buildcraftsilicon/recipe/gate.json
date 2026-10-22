@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "R",
+    "C"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "C": {
+      "item": "buildcraftsilicon:chipset_redstone"
+    }
+  },
+  "result": {
+    "id": "buildcraftsilicon:gate",
+    "count": 1
+  }
+}

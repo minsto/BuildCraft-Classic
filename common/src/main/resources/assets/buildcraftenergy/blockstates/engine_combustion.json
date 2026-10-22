@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "buildcraftenergy:block/engine_combustion"
+    },
+    "facing=south": {
+      "model": "buildcraftenergy:block/engine_combustion"
+    },
+    "facing=west": {
+      "model": "buildcraftenergy:block/engine_combustion"
+    },
+    "facing=east": {
+      "model": "buildcraftenergy:block/engine_combustion"
+    },
+    "facing=up": {
+      "model": "buildcraftenergy:block/engine_combustion"
+    },
+    "facing=down": {
+      "model": "buildcraftenergy:block/engine_combustion"
+    }
+  }
+}
